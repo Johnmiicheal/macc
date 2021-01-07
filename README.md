@@ -18,5 +18,7 @@ FOR USE ON LINUX MACHINES ONLY
 * ifconfig not working: ```sudo apt-get install net-tools```
 * module not found: Install python
 
+* Need to fix this : <TypeError: cannot use a string pattern on a bytes-like object/>
+
 
 
