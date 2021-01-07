@@ -10,7 +10,7 @@
 ### How to use
 FOR USE ON LINUX MACHINES ONLY
 
-* '''python mac_changer.py -i [interface] -m [new mac address]
+* ```python mac_changer.py -i [interface] -m [new mac address]```
 
 
 ### Possible troubleshoot 
